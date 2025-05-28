@@ -29,7 +29,7 @@ Also since average delay in arrival & departure both is 15 minutes, thus they mu
 - Step 11 : Ratings Visual was used to represent different ratings mentioned below,
 
   (a) Baggage Handling
-
+fdf
   (b) Check-in Services
   
   (c) Cleanliness
@@ -89,7 +89,8 @@ A card visual was used to represent count of customers.
 
 ![Snap_Count](https://user-images.githubusercontent.com/102996550/174090154-424dc1a4-3ff7-41f8-9617-17a2fb205825.jpg)
 
-        
+      [MC-ETH-EE Sparkmeter dashboard (1).pdf](https://github.com/user-attachments/files/20494695/MC-ETH-EE.Sparkmeter.dashboard.1.pdf)
+  
  - Step 16 : New measure was created to find  % of customers,
  
  Following DAX expression was written to find % of customers,
