@@ -2,7 +2,9 @@
 
 ### Dashboard Link : [https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection](https://app.powerbi.com/reportEmbed?reportId=b44f4ad2-27c6-4c57-9dee-8071d1650402&autoAuth=true&ctid=08de8628-593e-43f5-9ceb-f3e5dd7ae2cb)
 
-[MC-ETH-EE Sparkmeter dashboard (1).pdf](https://github.com/user-attachments/files/20494732/MC-ETH-EE.Sparkmeter.dashboard.1.pdf)
+[MC-ETH-EE Sparkmeter dashboard] <img width="1551" height="863" alt="image" src="https://github.com/user-attachments/assets/4a767923-c46d-4f91-9e1f-ba429b9687b3" />
+
+
 
 ## Problem Statement<img width="860" alt="sparkmeer" src="https://github.com/user-attachments/assets/1f8109b2-6454-4d83-83fc-49e3a2a1e1b5" />
 
