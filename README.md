@@ -6,8 +6,6 @@
 
 
 
-## Problem Statement<img width="860" alt="sparkmeer" src="https://github.com/user-attachments/assets/1f8109b2-6454-4d83-83fc-49e3a2a1e1b5" />
-
 
 This dashboard helps the business stakeholder understand their customers better. It helps the solar electricity provider know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. 
 
