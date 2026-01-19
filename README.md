@@ -1,6 +1,6 @@
 # Energy Consumption Dashboard
 
-### Dashboard Link : [https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection](https://app.powerbi.com/reportEmbed?reportId=b44f4ad2-27c6-4c57-9dee-8071d1650402&autoAuth=true&ctid=08de8628-593e-43f5-9ceb-f3e5dd7ae2cb)
+### Dashboard 
 
 [MC-ETH-EE Sparkmeter dashboard] <img width="1551" height="863" alt="image" src="https://github.com/user-attachments/assets/4a767923-c46d-4f91-9e1f-ba429b9687b3" />
 
