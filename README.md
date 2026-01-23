@@ -8,15 +8,19 @@
 
 
 This dashboard helps the business stakeholder understand their customers better. It helps the solar electricity provider know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. 
+# CARM Dashboard 
+#### Feedback submission, Processing & Response managment 
+### Dashboard 
+<img width="1525" height="852" alt="image" src="https://github.com/user-attachments/assets/d673fffe-dbd4-47fd-aa1f-20fa2df7aa7d" />
 
 ### Steps followed 
 
-- Step 1 : Load data into Power BI Desktop, dataset is a csv file, api souces, azure
-- Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
-- Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
-- Step 4 : It was observed that in none of the columns errors & empty values were present except column named "Arrival Delay".
-- Step 5 : For calculating average delay time, null values were not taken into account as only less than 1% values are null in this column(i.e column named "Arrival Delay") 
-- Step 6 : In the report view, under the view tab, theme was selected.
-- Step 7 : Since the data contains various ratings, thus in order to represent ratings, a new visual was added using the three ellipses in the visualizations pane in report view. 
-- Step 8 : Visual filters (Slicers) were added for four fields named "Class", "Customer Type", "Gate Location" & "Type of travel".
+- Get Data: Open Power BI Desktop, click Get Data, and select your source (e.g., Excel, SQL Server).
+- Transform Data: Use Power Query Editor to clean, filter, and shape data before loading it into the report.
+- Create Data Model: In the Model view, establish relationships between tables (e.g., connecting a date table to sales data).
+- Select Visualization: Click on a visual type (e.g., Bar chart, Table, Map) from the Visualizations pane to add a placeholder to the canvas.
+- Map Data Fields: Drag columns from the Data pane into the specific field wells (X-axis, Y-axis, Legend) in the Visualizations pane.
+- Format Visuals: Click the Paintbrush icon (Format your visual) to adjust colors, titles, labels, and gridlines.
+- Add Interactivity: Use Slicers to create interactive filters for the report.
+- Publish and Share: Save the file and click Publish to upload the report to the Power BI Service for sharing. 
 -
