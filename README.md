@@ -5,9 +5,12 @@
 [MC-ETH-EE Sparkmeter dashboard] <img width="1551" height="863" alt="image" src="https://github.com/user-attachments/assets/4a767923-c46d-4f91-9e1f-ba429b9687b3" />
 
 
+## Description 
 
+- This dashboard helps the business stakeholder understand their customers better. 
+- It helps the solar electricity provider know if their customers are satisfied with their services. 
+- Support data-driven decision and service improvement insight, & thus they can improve their services by identifying these area. 
 
-This dashboard helps the business stakeholder understand their customers better. It helps the solar electricity provider know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. 
 # CARM Dashboard 
 #### Feedback submission, Processing & Response managment 
 ### Dashboard 
